@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7D361032-BFEA-4AAB-8C49-0D07B997E499</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HB9CVAntennaCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>900771E8C27B519C9FC55C5412C057C471297DB7</key>
+		<string>ssh://lisa-Laptop-old.local/~/07AntennaProject/antennaProject</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HB9CVAntennaCalculator/HB9CVAntennaCalculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>900771E8C27B519C9FC55C5412C057C471297DB7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://lisa-Laptop-old.local/~/07AntennaProject/antennaProject</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>900771E8C27B519C9FC55C5412C057C471297DB7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>900771E8C27B519C9FC55C5412C057C471297DB7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>antennaProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
